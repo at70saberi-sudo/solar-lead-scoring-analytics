@@ -1,0 +1,301 @@
+lead_id,village,distance_from_darab_km,property_type,usage_purpose,electricity_access,lead_source
+L0001,Hasan Abad,14.9,garden_house,mixed_use,none,referral
+L0002,Madavan,32.1,rural_house,seasonal_garden,none,referral
+L0003,Layzangan,82.1,garden_house,mixed_use,none,referral
+L0004,Dabiran,70.6,garden_house,seasonal_garden,unstable,local_ad
+L0005,Jannat Shahr,24.8,garden_house,mixed_use,unstable,instagram
+L0006,Shahanan,8.2,garden_house,seasonal_garden,unstable,local_ad
+L0007,Pasakhan,25.7,garden_house,mixed_use,unstable,local_ad
+L0008,Bargan,9.5,farm,agriculture,unstable,referral
+L0009,Bargan,11.6,rural_house,seasonal_garden,none,referral
+L0010,Pasakhan,28.5,garden_house,seasonal_garden,none,local_ad
+L0011,Shamsabad,14.7,garden_house,seasonal_garden,unstable,local_ad
+L0012,Bargan,12.3,garden_house,seasonal_garden,unstable,referral
+L0013,Tizab,18.3,farm,agriculture,none,instagram
+L0014,Jannat Shahr,24.6,farm,agriculture,none,referral
+L0015,Hasan Abad,13.5,garden_house,seasonal_garden,none,referral
+L0016,Rostaq,74.6,farm,agriculture,none,referral
+L0017,Jannat Shahr,19.9,rural_house,primary_residence,unstable,returning_customer
+L0018,Jamsi,16.4,farm,agriculture,none,referral
+L0019,Hasan Abad,15.9,farm,agriculture,unstable,local_ad
+L0020,Banouj,15.0,farm,agriculture,unstable,instagram
+L0021,Khosouyeh,46.5,garden_house,seasonal_garden,unstable,referral
+L0022,Dabiran,68.8,garden_house,agriculture,none,local_ad
+L0023,Bakhtajerd,15.9,farm,agriculture,unstable,instagram
+L0024,Banouj,15.5,garden_house,primary_residence,unstable,referral
+L0025,Jannat Shahr,19.7,garden_house,seasonal_garden,none,referral
+L0026,Shamsabad,23.5,farm,agriculture,none,local_ad
+L0027,Layzangan,79.2,rural_house,seasonal_garden,unstable,instagram
+L0028,Jannat Shahr,22.3,garden_house,seasonal_garden,unstable,referral
+L0029,Tizab,14.8,garden_house,seasonal_garden,none,instagram
+L0030,Madavan,34.6,farm,agriculture,none,referral
+L0031,Pasakhan,23.5,garden_house,seasonal_garden,none,local_ad
+L0032,Sangcharak,3.2,farm,mixed_use,none,local_ad
+L0033,Shamsabad,16.7,farm,agriculture,none,local_ad
+L0034,Jannat Shahr,19.9,garden_house,seasonal_garden,none,returning_customer
+L0035,Dabiran,69.7,garden_house,seasonal_garden,none,referral
+L0036,Shahanan,10.6,farm,agriculture,unstable,returning_customer
+L0037,Nidshahr,5.5,farm,primary_residence,unstable,referral
+L0038,Dabiran,67.0,garden_house,seasonal_garden,none,local_ad
+L0039,Dabiran,70.1,farm,agriculture,unstable,
+L0040,Shamsabad,15.3,farm,agriculture,none,instagram
+L0041,Rostaq,69.8,farm,mixed_use,none,referral
+L0042,Pasakhan,31.5,farm,agriculture,none,referral
+L0043,Sangcharak,5.5,garden_house,seasonal_garden,unstable,instagram
+L0044,Sangcharak,5.7,rural_house,seasonal_garden,none,local_ad
+L0045,Jannat Shahr,20.7,farm,agriculture,none,referral
+L0046,Bakhtajerd,19.0,farm,agriculture,none,
+L0047,Banouj,15.5,garden_house,,unstable,local_ad
+L0048,Tizab,17.0,farm,mixed_use,none,returning_customer
+L0049,Jannat Shahr,22.0,rural_house,primary_residence,unstable,returning_customer
+L0050,Bakhtajerd,11.5,farm,mixed_use,none,instagram
+L0051,Shamsabad,15.4,garden_house,agriculture,none,referral
+L0052,Jamsi,15.2,garden_house,seasonal_garden,unstable,referral
+L0053,Banouj,18.6,farm,agriculture,none,referral
+L0054,Banouj,14.8,rural_house,primary_residence,none,instagram
+L0055,Jamsi,20.8,farm,mixed_use,unstable,returning_customer
+L0056,Rostaq,66.7,garden_house,seasonal_garden,none,instagram
+L0057,Bakhtajerd,15.1,garden_house,seasonal_garden,unstable,instagram
+L0058,Morvarid,38.2,farm,agriculture,none,referral
+L0059,Banouj,16.8,rural_house,seasonal_garden,none,local_ad
+L0060,Jannat Shahr,20.3,farm,seasonal_garden,unstable,referral
+L0061,Shamsabad,15.9,rural_house,mixed_use,none,instagram
+L0062,Nidshahr,11.8,farm,primary_residence,none,instagram
+L0063,Sangcharak,4.4,rural_house,seasonal_garden,unstable,instagram
+L0064,Banouj,22.5,farm,agriculture,none,instagram
+L0065,Jannat Shahr,22.8,garden_house,mixed_use,none,referral
+L0066,Tizab,17.7,farm,mixed_use,none,instagram
+L0067,Sangcharak,6.9,rural_house,primary_residence,none,referral
+L0068,Nidshahr,6.3,garden_house,mixed_use,none,referral
+L0069,Banouj,12.1,farm,agriculture,none,instagram
+L0070,Shamsabad,23.5,farm,agriculture,none,returning_customer
+L0071,Rostaq,74.2,farm,agriculture,none,local_ad
+L0072,Zarrindasht,67.6,garden_house,seasonal_garden,none,local_ad
+L0073,Hasan Abad,14.2,rural_house,primary_residence,none,local_ad
+L0074,Bakhtajerd,11.1,garden_house,mixed_use,unstable,local_ad
+L0075,Shamsabad,18.7,garden_house,seasonal_garden,none,referral
+L0076,Layzangan,79.0,rural_house,primary_residence,none,referral
+L0077,Tizab,20.2,farm,agriculture,none,instagram
+L0078,Jamsi,21.7,farm,,none,referral
+L0079,Shamsabad,18.4,garden_house,primary_residence,none,referral
+L0080,Zarrindasht,66.5,rural_house,primary_residence,none,referral
+L0081,Jannat Shahr,19.9,rural_house,mixed_use,none,
+L0082,Nidshahr,10.7,farm,seasonal_garden,none,instagram
+L0083,Shahanan,9.0,rural_house,mixed_use,none,returning_customer
+L0084,Jamsi,12.4,farm,agriculture,none,referral
+L0085,Jamsi,19.8,garden_house,seasonal_garden,unstable,local_ad
+L0086,Dabiran,69.2,garden_house,seasonal_garden,none,referral
+L0087,Pasakhan,26.7,garden_house,agriculture,none,referral
+L0088,Shahanan,6.5,rural_house,mixed_use,none,local_ad
+L0089,Khosouyeh,42.0,rural_house,primary_residence,unstable,referral
+L0090,Banouj,22.5,farm,agriculture,none,referral
+L0091,Jamsi,11.4,farm,mixed_use,none,instagram
+L0092,Khosouyeh,48.0,farm,agriculture,none,referral
+L0093,Badameh,62.8,garden_house,mixed_use,unstable,referral
+L0094,Rostaq,70.7,farm,mixed_use,unstable,referral
+L0095,Banouj,18.1,garden_house,mixed_use,none,local_ad
+L0096,Banouj,10.5,farm,agriculture,none,local_ad
+L0097,Nidshahr,7.8,garden_house,seasonal_garden,none,instagram
+L0098,Banouj,16.5,garden_house,seasonal_garden,none,returning_customer
+L0099,Bargan,11.7,garden_house,seasonal_garden,none,local_ad
+L0100,Hasan Abad,14.7,garden_house,primary_residence,none,referral
+L0101,Rostaq,70.5,farm,mixed_use,unstable,referral
+L0102,Shahanan,7.6,rural_house,mixed_use,unstable,instagram
+L0103,Jamsi,13.5,garden_house,seasonal_garden,unstable,instagram
+L0104,Tizab,17.7,farm,agriculture,none,referral
+L0105,Badameh,64.3,garden_house,seasonal_garden,none,local_ad
+L0106,Nidshahr,5.4,rural_house,seasonal_garden,unstable,local_ad
+L0107,Nidshahr,6.6,garden_house,agriculture,unstable,local_ad
+L0108,Shamsabad,16.0,rural_house,primary_residence,none,instagram
+L0109,Shamsabad,17.2,farm,mixed_use,none,local_ad
+L0110,Layzangan,80.4,farm,mixed_use,none,referral
+L0111,Khosouyeh,40.5,garden_house,mixed_use,unstable,referral
+L0112,Nidshahr,10.8,farm,mixed_use,none,local_ad
+L0113,Shahanan,2.5,farm,agriculture,none,
+L0114,Badameh,65.6,garden_house,seasonal_garden,unstable,instagram
+L0115,Hasan Abad,19.8,farm,agriculture,unstable,referral
+L0116,Layzangan,79.7,garden_house,mixed_use,none,referral
+L0117,Shahanan,6.5,rural_house,agriculture,none,local_ad
+L0118,Shahanan,8.8,rural_house,agriculture,none,instagram
+L0119,Hasan Abad,14.9,farm,agriculture,none,local_ad
+L0120,Jannat Shahr,25.1,farm,agriculture,unstable,returning_customer
+L0121,Morvarid,40.1,farm,agriculture,none,referral
+L0122,Hasan Abad,14.8,garden_house,,none,instagram
+L0123,Badameh,66.8,garden_house,mixed_use,unstable,instagram
+L0124,Morvarid,35.3,garden_house,seasonal_garden,unstable,instagram
+L0125,Shahanan,7.5,rural_house,seasonal_garden,unstable,local_ad
+L0126,Bargan,12.0,farm,agriculture,unstable,local_ad
+L0127,Nidshahr,9.9,farm,mixed_use,none,referral
+L0128,Badameh,65.0,farm,agriculture,none,instagram
+L0129,Dabiran,69.9,garden_house,mixed_use,unstable,referral
+L0130,Jamsi,14.9,farm,agriculture,unstable,local_ad
+L0131,Banouj,14.9,farm,agriculture,none,instagram
+L0132,Morvarid,33.1,garden_house,seasonal_garden,none,referral
+L0133,Hasan Abad,12.4,rural_house,primary_residence,none,returning_customer
+L0134,Madavan,33.6,rural_house,,none,instagram
+L0135,Pasakhan,23.2,rural_house,primary_residence,none,referral
+L0136,Shahanan,9.6,garden_house,agriculture,unstable,instagram
+L0137,Shahanan,3.5,farm,agriculture,none,referral
+L0138,Layzangan,87.1,farm,mixed_use,unstable,returning_customer
+L0139,Madavan,33.0,rural_house,agriculture,none,instagram
+L0140,Jamsi,12.2,garden_house,agriculture,none,local_ad
+L0141,Dabiran,66.2,garden_house,primary_residence,none,referral
+L0142,Shahanan,7.6,garden_house,seasonal_garden,unstable,instagram
+L0143,Pasakhan,24.9,rural_house,agriculture,unstable,referral
+L0144,Hasan Abad,10.3,farm,agriculture,unstable,instagram
+L0145,Madavan,28.6,farm,agriculture,unstable,local_ad
+L0146,Rostaq,69.1,farm,agriculture,unstable,returning_customer
+L0147,Sangcharak,5.8,farm,seasonal_garden,none,instagram
+L0148,Khosouyeh,42.8,rural_house,mixed_use,none,referral
+L0149,Nidshahr,4.7,garden_house,seasonal_garden,unstable,instagram
+L0150,Sangcharak,5.1,garden_house,seasonal_garden,none,referral
+L0151,Jamsi,22.0,farm,agriculture,unstable,referral
+L0152,Khosouyeh,42.1,garden_house,mixed_use,unstable,instagram
+L0153,Shahanan,7.8,farm,agriculture,unstable,referral
+L0154,Nidshahr,6.0,rural_house,primary_residence,none,referral
+L0155,Dabiran,66.4,garden_house,,none,referral
+L0156,Sangcharak,8.3,farm,agriculture,none,instagram
+L0157,Shamsabad,17.0,garden_house,mixed_use,none,referral
+L0158,Sangcharak,5.6,rural_house,mixed_use,none,referral
+L0159,Hasan Abad,12.2,garden_house,mixed_use,none,referral
+L0160,Dabiran,69.4,farm,primary_residence,none,returning_customer
+L0161,Dabiran,70.7,farm,agriculture,none,referral
+L0162,Layzangan,82.2,farm,agriculture,unstable,referral
+L0163,Bargan,8.8,rural_house,mixed_use,none,instagram
+L0164,Dabiran,71.4,garden_house,seasonal_garden,none,local_ad
+L0165,Jamsi,18.4,farm,agriculture,unstable,instagram
+L0166,Jamsi,14.2,farm,agriculture,none,referral
+L0167,Morvarid,33.5,rural_house,primary_residence,none,local_ad
+L0168,Khosouyeh,42.1,farm,seasonal_garden,unstable,referral
+L0169,Shahanan,8.0,rural_house,primary_residence,unstable,referral
+L0170,Nidshahr,6.1,garden_house,seasonal_garden,unstable,instagram
+L0171,Bargan,5.5,farm,primary_residence,none,returning_customer
+L0172,Hasan Abad,16.1,farm,agriculture,none,instagram
+L0173,Hasan Abad,14.5,farm,agriculture,none,referral
+L0174,Pasakhan,26.8,farm,agriculture,none,referral
+L0175,Jannat Shahr,24.8,garden_house,seasonal_garden,none,referral
+L0176,Shahanan,11.7,farm,mixed_use,unstable,local_ad
+L0177,Dabiran,69.3,garden_house,seasonal_garden,none,returning_customer
+L0178,Tizab,14.3,farm,agriculture,none,referral
+L0179,Nidshahr,1.5,farm,seasonal_garden,unstable,referral
+L0180,Banouj,18.1,garden_house,mixed_use,none,returning_customer
+L0181,Jamsi,18.8,garden_house,primary_residence,unstable,instagram
+L0182,Bargan,11.1,farm,agriculture,none,local_ad
+L0183,Bakhtajerd,13.3,garden_house,seasonal_garden,unstable,referral
+L0184,Bakhtajerd,16.2,farm,agriculture,unstable,local_ad
+L0185,Sangcharak,7.3,garden_house,agriculture,unstable,referral
+L0186,Jannat Shahr,24.1,farm,seasonal_garden,none,instagram
+L0187,Rostaq,64.9,farm,agriculture,none,local_ad
+L0188,Jamsi,17.8,garden_house,seasonal_garden,none,referral
+L0189,Banouj,12.7,farm,agriculture,none,instagram
+L0190,Tizab,13.6,garden_house,mixed_use,none,referral
+L0191,Morvarid,32.2,rural_house,mixed_use,none,referral
+L0192,Dabiran,70.9,farm,agriculture,none,instagram
+L0193,Khosouyeh,46.3,garden_house,seasonal_garden,none,local_ad
+L0194,Jamsi,18.5,farm,agriculture,none,referral
+L0195,Badameh,66.7,farm,agriculture,none,referral
+L0196,Bakhtajerd,18.6,farm,agriculture,none,
+L0197,Hasan Abad,15.2,garden_house,seasonal_garden,none,returning_customer
+L0198,Tizab,13.8,garden_house,seasonal_garden,unstable,referral
+L0199,Zarrindasht,66.3,farm,mixed_use,none,instagram
+L0200,Sangcharak,10.9,farm,agriculture,none,local_ad
+L0201,Hasan Abad,12.9,rural_house,primary_residence,none,referral
+L0202,Sangcharak,9.1,farm,agriculture,none,local_ad
+L0203,Bargan,11.7,garden_house,mixed_use,none,
+L0204,Dabiran,68.3,rural_house,primary_residence,none,referral
+L0205,Tizab,17.8,garden_house,seasonal_garden,none,referral
+L0206,Tizab,16.6,farm,mixed_use,unstable,referral
+L0207,Pasakhan,30.9,farm,agriculture,unstable,referral
+L0208,Khosouyeh,41.5,rural_house,agriculture,unstable,local_ad
+L0209,Banouj,14.7,rural_house,primary_residence,none,referral
+L0210,Banouj,14.8,rural_house,primary_residence,none,local_ad
+L0211,Layzangan,81.8,rural_house,primary_residence,none,returning_customer
+L0212,Hasan Abad,20.5,farm,agriculture,unstable,returning_customer
+L0213,Khosouyeh,44.2,farm,agriculture,none,instagram
+L0214,Bakhtajerd,14.4,farm,agriculture,none,
+L0215,Hasan Abad,11.5,farm,mixed_use,unstable,local_ad
+L0216,Bakhtajerd,12.9,rural_house,,none,returning_customer
+L0217,Bakhtajerd,15.4,farm,mixed_use,none,referral
+L0218,Jannat Shahr,20.5,rural_house,seasonal_garden,none,local_ad
+L0219,Sangcharak,4.8,garden_house,seasonal_garden,none,referral
+L0220,Badameh,64.3,rural_house,mixed_use,unstable,returning_customer
+L0221,Jamsi,12.7,garden_house,,unstable,referral
+L0222,Jannat Shahr,23.0,garden_house,seasonal_garden,none,referral
+L0223,Bakhtajerd,13.9,rural_house,mixed_use,unstable,referral
+L0224,Badameh,58.6,farm,mixed_use,none,referral
+L0225,Shamsabad,18.7,garden_house,agriculture,none,local_ad
+L0226,Tizab,19.8,garden_house,primary_residence,none,referral
+L0227,Banouj,13.3,garden_house,seasonal_garden,none,instagram
+L0228,Sangcharak,5.3,farm,agriculture,none,instagram
+L0229,Bakhtajerd,13.6,farm,seasonal_garden,none,referral
+L0230,Morvarid,35.8,farm,mixed_use,none,referral
+L0231,Bakhtajerd,12.2,rural_house,mixed_use,none,instagram
+L0232,Hasan Abad,12.1,garden_house,primary_residence,unstable,referral
+L0233,Morvarid,32.3,rural_house,primary_residence,unstable,referral
+L0234,Tizab,15.2,garden_house,seasonal_garden,none,referral
+L0235,Layzangan,82.7,farm,agriculture,none,returning_customer
+L0236,Shahanan,9.1,farm,mixed_use,none,instagram
+L0237,Jamsi,17.5,garden_house,seasonal_garden,none,local_ad
+L0238,Banouj,10.5,farm,primary_residence,none,referral
+L0239,Shahanan,8.3,farm,mixed_use,none,referral
+L0240,Shahanan,7.3,rural_house,primary_residence,none,local_ad
+L0241,Pasakhan,27.3,garden_house,seasonal_garden,none,referral
+L0242,Morvarid,37.6,farm,seasonal_garden,none,local_ad
+L0243,Pasakhan,24.6,garden_house,mixed_use,none,referral
+L0244,Banouj,18.4,garden_house,seasonal_garden,none,instagram
+L0245,Tizab,14.6,garden_house,agriculture,unstable,referral
+L0246,Morvarid,31.3,farm,agriculture,none,returning_customer
+L0247,Khosouyeh,41.9,rural_house,seasonal_garden,none,instagram
+L0248,Rostaq,70.9,farm,agriculture,none,referral
+L0249,Pasakhan,24.3,garden_house,seasonal_garden,unstable,instagram
+L0250,Pasakhan,26.0,farm,agriculture,none,referral
+L0251,Layzangan,79.6,farm,mixed_use,unstable,local_ad
+L0252,Pasakhan,25.3,rural_house,mixed_use,none,referral
+L0253,Jamsi,17.8,farm,agriculture,none,local_ad
+L0254,Shahanan,8.4,farm,mixed_use,none,instagram
+L0255,Shahanan,9.4,farm,agriculture,unstable,local_ad
+L0256,Madavan,29.2,garden_house,seasonal_garden,unstable,referral
+L0257,Madavan,35.2,farm,agriculture,none,referral
+L0258,Tizab,15.1,farm,agriculture,none,referral
+L0259,Shahanan,7.6,garden_house,seasonal_garden,unstable,referral
+L0260,Shamsabad,18.6,farm,mixed_use,unstable,referral
+L0261,Sangcharak,4.6,garden_house,seasonal_garden,none,referral
+L0262,Shamsabad,18.8,garden_house,mixed_use,none,referral
+L0263,Banouj,14.1,garden_house,,none,referral
+L0264,Shamsabad,16.4,garden_house,seasonal_garden,none,
+L0265,Jannat Shahr,19.0,farm,,unstable,local_ad
+L0266,Tizab,16.6,farm,seasonal_garden,none,
+L0267,Khosouyeh,42.2,farm,seasonal_garden,unstable,referral
+L0268,Madavan,33.8,garden_house,seasonal_garden,unstable,instagram
+L0269,Madavan,31.0,rural_house,seasonal_garden,none,referral
+L0270,Hasan Abad,15.4,garden_house,seasonal_garden,none,instagram
+L0271,Shamsabad,17.3,rural_house,seasonal_garden,unstable,local_ad
+L0272,Dabiran,72.3,farm,agriculture,unstable,local_ad
+L0273,Jamsi,13.2,garden_house,seasonal_garden,none,referral
+L0274,Tizab,16.5,garden_house,agriculture,unstable,local_ad
+L0275,Nidshahr,8.3,garden_house,,none,
+L0276,Shamsabad,14.4,garden_house,mixed_use,none,referral
+L0277,Shahanan,11.9,farm,agriculture,none,referral
+L0278,Dabiran,66.6,farm,agriculture,none,instagram
+L0279,Hasan Abad,15.7,farm,mixed_use,none,referral
+L0280,Tizab,17.7,farm,seasonal_garden,none,instagram
+L0281,Banouj,14.7,farm,agriculture,none,referral
+L0282,Badameh,63.5,rural_house,mixed_use,unstable,instagram
+L0283,Dabiran,68.0,farm,agriculture,none,local_ad
+L0284,Rostaq,69.5,garden_house,seasonal_garden,none,instagram
+L0285,Madavan,30.4,garden_house,mixed_use,none,
+L0286,Jamsi,13.6,farm,agriculture,unstable,instagram
+L0287,Badameh,63.4,garden_house,seasonal_garden,unstable,
+L0288,Nidshahr,11.8,farm,agriculture,none,referral
+L0289,Shamsabad,15.0,farm,agriculture,unstable,referral
+L0290,Bakhtajerd,12.7,garden_house,seasonal_garden,unstable,referral
+L0291,Sangcharak,12.5,farm,seasonal_garden,none,instagram
+L0292,Madavan,27.5,farm,agriculture,none,referral
+L0293,Pasakhan,27.7,garden_house,,none,instagram
+L0294,Banouj,19.6,garden_house,seasonal_garden,none,local_ad
+L0295,Hasan Abad,13.3,rural_house,seasonal_garden,none,referral
+L0296,Madavan,31.6,rural_house,seasonal_garden,none,referral
+L0297,Hasan Abad,13.3,rural_house,primary_residence,none,instagram
+L0298,Banouj,18.0,farm,,none,referral
+L0299,Morvarid,30.2,garden_house,mixed_use,unstable,referral
+L0300,Zarrindasht,69.4,garden_house,seasonal_garden,unstable,referral
